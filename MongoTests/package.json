@@ -1,0 +1,15 @@
+{
+  "name": "mongotests-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "author": "Matthew Bordas",
+  "license": "ISC",
+  "dependencies": {
+    "@timebyping/ping-node": "^0.2.38"
+  }
+}
